@@ -73,7 +73,7 @@ if __name__ == '__main__':
     # config file
     config = Config({
         # image path
-        "image_path": "./test_images/kunkun.png",
+        "image_path": "./drive/MyDrive/internship/dataset/test_one_image/I14_04_05.png",
 
         # valid times
         "num_crops": 20,
@@ -91,7 +91,7 @@ if __name__ == '__main__':
         "scale": 0.8,
 
         # checkpoint path
-        "ckpt_path": "./ckpt_koniq10k.pt",
+        "ckpt_path": "./output/models/epoch1.pt",
     })
     
     # data load
