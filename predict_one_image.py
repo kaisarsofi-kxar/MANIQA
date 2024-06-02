@@ -91,7 +91,7 @@ if __name__ == '__main__':
         "scale": 0.8,
 
         # checkpoint path
-        "ckpt_path": "./output/models/epoch1.pt",
+        "ckpt_path": "./drive/MyDrive/internship/trained_models/epoch1.pt",
     })
     
     # data load
